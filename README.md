@@ -1,4 +1,4 @@
-I build services at @aws. Opinions my own.
+I help businesses build on @aws. Opinions my own.
 
 <!--
 **hgad/hgad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
